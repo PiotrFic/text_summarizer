@@ -1,6 +1,5 @@
-# BBC News TL;DR Generator
-## Simple Text Summarizer
--------------------
+#BBC News TL;DR Generator
+##Simple Text Summarizer
 
 This 'Too Long; Didn't Read' generator creates simple, extraction-based summary bullets from random BBC tech-related news stories (full dataset is available at http://mlg.ucd.ie/datasets/bbc.html).
 
